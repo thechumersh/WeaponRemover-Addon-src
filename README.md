@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="banner.png" alt="Weapon Remover">
+</p>
+
 <a name="english"></a>
 ## 🇺🇸 English
 
