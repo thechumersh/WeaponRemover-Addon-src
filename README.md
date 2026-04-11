@@ -3,12 +3,35 @@
 ![Garry's Mod](https://img.shields.io/badge/Game-Garry's%20Mod-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Простой и эффективный инструмент для быстрого удаления активного оружия или полной очистки инвентаря в Garry's Mod с помощью настраиваемых комбинаций клавиш.
+[English description below](#english) | [Описание на русском](#russian)
 
 ---
 
-## 🚀 Функции
+<a name="english"></a>
+## 🇺🇸 English
 
+A simple and effective tool for quickly stripping active weapons or clearing your entire inventory in Garry's Mod using customizable key combinations.
+
+### 🚀 Features
+* **Active Weapon Removal:** Instantly remove the weapon currently in your hands.
+* **Full Clear:** Button to quickly wipe your entire arsenal.
+* **Custom Binds:** Assign any keys (including mouse buttons) via a user-friendly menu.
+* **Spawn Block:** Option to automatically strip weapons when a player spawns.
+* **Localization:** Full support for English and Russian languages.
+* **HUD Hint:** On-screen display of current binds (can be toggled).
+
+### ⌨️ Usage
+Default keys: **E + Right Mouse Button**.
+To customize: **Q Menu -> Options -> Weapon Remover -> Settings**.
+
+---
+
+<a name="russian"></a>
+## 🇷🇺 Russian
+
+Простой и эффективный инструмент для быстрого удаления активного оружия или полной очистки инвентаря в Garry's Mod с помощью настраиваемых комбинаций клавиш.
+
+### 🚀 Функции
 * **Удаление активного оружия:** Моментально удаляет то, что у вас в руках.
 * **Полная очистка:** Кнопка для быстрого удаления всего арсенала.
 * **Настраиваемые бинды:** Назначайте любые клавиши (включая мышь) через удобное меню.
@@ -16,36 +39,27 @@
 * **Мультиязычность:** Полная поддержка русского и английского языков.
 * **HUD Подсказка:** Отображение текущих клавиш на экране (можно отключить).
 
----
-
-## 🛠 Установка
-
-1. Скачайте файл `weapon_remover.lua`.
-2. Поместите его в папку вашего сервера или клиента:
-   `garrysmod/lua/autorun/weapon_remover.lua`
-3. Перезапустите игру или смените карту.
+### ⌨️ Использование
+Клавиши по умолчанию: **E + Правая кнопка мыши**.
+Настройка: **Q Menu -> Настройки -> Weapon Remover -> Настройки**.
 
 ---
 
-## ⌨️ Использование
+## 🛠 Installation / Установка
 
-По умолчанию используются клавиши: **E + Правая кнопка мыши**.
-
-### Как настроить:
-1. Откройте **Q-меню**.
-2. Перейдите во вкладку **Options** (Настройки).
-3. Найдите категорию **Weapon Remover**.
-4. В разделе **Settings** вы сможете переназначить клавиши и изменить параметры работы аддона.
+1. Download `weapon_remover.lua`.
+2. Place it in: `garrysmod/lua/autorun/weapon_remover.lua`
+3. Restart the game or change the map.
 
 ---
 
-## 👥 Команда проекта
+## 👥 Credits / Команда
 
-* **Автор:** [Not a Person](https://github.com/твой-логин)
-* **Бета-тестеры:** * Daniel64FX
+* **Author:** [Not a Person](https://github.com/your-username)
+* **Beta Testers:** Daniel64FX
 
 ---
 
-## 📄 Лицензия
+## 📄 License
 
-Этот проект распространяется под лицензией MIT. Вы можете свободно изменять и использовать код в своих целях.
+This project is licensed under the MIT License.
