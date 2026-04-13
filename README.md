@@ -59,7 +59,7 @@ To customize: **Q Menu -> Options -> Weapon Remover -> Settings**.
 
 ## 👥 Credits / Команда
 
-* **Author:** [Not a Person](https://github.com/thechumersh/)
+* **Author:** [Not a Person](https://github.com/thechumersh/) / TheChumerSH
 * **Beta Testers:** Daniel64FX
 
 ---
